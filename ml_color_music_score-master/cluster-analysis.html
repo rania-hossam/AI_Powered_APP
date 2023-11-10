@@ -8,7 +8,8 @@
 	<title></title>
 	<style>
 		body,
-		html {
+		html,
+		* {
 			font-family: 'Segoe UI', sans-serif;
 			top: 0;
 			left: 0;
@@ -84,6 +85,7 @@
 		p {
 			font-size: 1.25rem;
 			font-weight: 300;
+			
 		}
 
 		i {
@@ -119,7 +121,7 @@
 			z-index: 100;
 			background-color: #F2F2F2;
 			border: 0.05em #CCCCCC;
-			border-radius: 0.2em;
+			border-radius: 10px;
 			pointer-events: none;
 			transition: 0.25s all ease-in-out;
 			padding: 2%;
@@ -140,6 +142,10 @@
 
 		.item {
 			display: block;
+			font-size: 0.8em;
+			padding: 5px 0;
+		}
+		.item p {
 			font-size: 0.8em;
 		}
 
@@ -170,7 +176,15 @@
 			overflow: hidden;
 			position: relative;
 			height: 100vh;
-			scroll-snap-align: center;
+			/* scroll-snap-align: center; */
+		}
+		.category h1{
+			text-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+			padding: 20px 0;
+		}
+		.category p{
+			font-size: 1.25rem;
+			padding-bottom: 40px;
 		}
 
 		.model {
@@ -242,6 +256,12 @@
 			color: #F2F2F2;
 
 		}
+		#Building {
+			/* background-image: linear-gradient(#D9AC9B, #B9D9BB); */
+			background-color: #6FA8DC;
+			color: #F2F2F2;
+
+		}
 
 		#Magic {
 			/* background-image: linear-gradient(#B9D9BB, #FFCA90); */
@@ -249,11 +269,7 @@
 			color: #F2F2F2;
 		}
 
-		#Building {
-			/* background-image: linear-gradient(#FFCA90, #DAE2E7); */
-			background-color: #f2f2f2;
-			color: #333;
-		}
+		
 
 		#Emerging {
 			/* background-image: linear-gradient(#DAE2E7, #C7B299); */
@@ -310,11 +326,11 @@
 			start = parseFloat(formatTime(start))
 			end = parseFloat(formatTime(end - 0.01))
 			timecodes.push({
-				id: id,
-				measure: measure,
-				beat: beat,
-				start: start,
-				end: end
+				id,
+				measure,
+				beat,
+				start,
+				end
 			})
 		}
 	}
