@@ -72,5 +72,3 @@ They suggest that music notation systems should be designed to be more intuitive
 
 ---
 
-## Inspiration
-
