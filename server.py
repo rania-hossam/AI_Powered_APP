@@ -4,7 +4,7 @@ import webbrowser
 import os
 port = 8000
 
-html_file = "./ml_color_music_score-master/cluster-analysis.html"
+html_file = "./ml_color_music_score-master/CLUSTER_REPRESENTATION.html"
 
 web_dir = "."
 os.chdir(web_dir)
