@@ -131,7 +131,7 @@ Adjust the time duration using the slider.
 The app will generate music based on your description and play it back for you to listen to.
 4. Show Music Sheets from Your Audio
 This feature is designed to generate music sheets from your audio files. It converts MIDI files to PNG images.
-![Image](https://github.com/rania-hossam/AI_Powered_APP/blob/main/videosofproject/gif4.gif)
+![Image](https://github.com/rania-hossam/AI_Powered_APP/blob/main/videosofproject/GIF5.gif)
 
 To use this feature:
 
