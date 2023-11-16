@@ -15,8 +15,8 @@ def convert_midi_to_png(midi_file_path, output_png_path, musescore_path):
             print(f"OS error: {e}")
 
 # Example usage
-midi_file = r'C:\Users\rania\Downloads\ML_OPS\MIDIFILES\newly_generated_music_notes_basic_pitch.mid'
-output_png = r'C:\Users\rania\Downloads\ML_OPS\themes\nn.png'
-musescore_exe = r"C:\Program Files\MuseScore 4\bin\MuseScore4.exe"
+midi_file = './MIDIFILES/newly_generated_music_notes_basic_pitch.mid'
+output_png = './themes/nn.png'
+musescore_exe = "./MuseScore 4/bin/MuseScore4.exe"
 
 convert_midi_to_png(midi_file, output_png, musescore_exe)
