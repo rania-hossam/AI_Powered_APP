@@ -100,7 +100,8 @@ This Python application, "Music Learning for Dyslexia," is designed to help indi
 ## Features
 1. Visualizing Music Sheets in a Colorful Way
 This feature allows you to upload an image of a music sheet, and the app will visualize it in a colorful way. It uses a clustering algorithm to represent the music sheet with different colors for improved accessibility.
-[![Video](https://img.youtube.com/vi/aAexCz-bgfY/0.jpg)](https://www.youtube.com/watch?v=aAexCz-bgfY)
+![Image](https://github.com/rania-hossam/AI_Powered_APP/raw/main/videosofproject/ezgif.com-video-to-gif.gif)
+
 
 To use this feature:
 
