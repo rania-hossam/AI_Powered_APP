@@ -1,10 +1,11 @@
-Music Learning for Dyslexic Students .
+# Music Learning for Dyslexic Students .
 This Python application, "Music Learning for Dyslexia," is designed to help individuals with dyslexia learn music in a more accessible way. The app provides various features related to music transcription, generation, and visualization. This README provides an overview of the app's features and how to use them.
 
 
 Features
 1. Visualizing Music Sheets in a Colorful Way
 This feature allows you to upload an image of a music sheet, and the app will visualize it in a colorful way. It uses a clustering algorithm to represent the music sheet with different colors for improved accessibility.
+![Video](https://github.com/yourusername/yourrepository/raw/main/path/to/your/video.mp4)
 
 To use this feature:
 
