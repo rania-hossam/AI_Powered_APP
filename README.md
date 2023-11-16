@@ -13,6 +13,7 @@ our work is separated into two parts, one regarding doing an analysis process on
 
 # **Dyslexia and Music Notes Paper Data Analysis**
 
+you may find all files related to this section in `paper-analysis` folder located in this repo [here](/paper-analysis)
 This section contains all materials and files used in the data analysis process on paper 
 [Effects of the design of written music on the readability for children with dyslexia](https://journals.sagepub.com/doi/10.1177/0255761414546245)
 to find meaningful insights concerning dyslexic people having difficulties reading traditional music notes.
