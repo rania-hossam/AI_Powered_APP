@@ -144,7 +144,7 @@ To set up and run this application, follow these steps:
 Clone the repository to your local machine.
 bash
 Copy code
-git clone <repository_url>
+git clone <[repository_url](https://github.com/rania-hossam/AI_Powered_APP)>
 Navigate to the project directory.
 bash
 Copy code
@@ -171,6 +171,6 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Author
-This app was developed by [Your Name].
+This app was developed by [Rania Hossam].
 
 Feel free to contribute to this project or contact the author for any questions or suggestions.
