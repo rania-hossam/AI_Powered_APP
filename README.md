@@ -102,7 +102,7 @@ This Python application, "Music Learning for Dyslexia," is designed to help indi
 This feature allows you to upload an image of a music sheet, and the app will visualize it in a colorful way. It uses a clustering algorithm to represent the music sheet with different colors for improved accessibility.
 ![Image](https://github.com/rania-hossam/AI_Powered_APP/raw/main/videosofproject/ezgif.com-video-to-gif.gif)
 
-
+https://github.com/rania-hossam/AI_Powered_APP/blob/main/videosofproject/gif2.gif
 To use this feature:
 
 Select "VISUALIZING MUSIC SHEETS IN A COLORFUL WAY" from the sidebar.
@@ -116,6 +116,8 @@ To use this feature:
 Select "SHOW INFORMATION ABOUT MUSIC NOTES" from the sidebar.
 Upload an audio file in WAV, MP3, or OGG format.
 The app will transcribe the audio to MIDI and display information about the music notes in a DataFrame.
+![Image](https://github.com/rania-hossam/AI_Powered_APP/blob/main/videosofproject/gif2.gif)
+
 3. Music Generation
 The Music Generation feature allows you to generate music based on a text description. It uses the Meta Audiocraft library and the Music Gen Small model.
 
