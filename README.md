@@ -1,4 +1,4 @@
-# **title**
+# **Investigating Dyslexic's Challenges in Learning Music**
 
 This repo presents a project dedicated to dyslexic students who have difficulties reading music notes.
 our work is separated into two parts, one regarding doing an analysis process on a paper that discussed the same topic, and the other is inspired by the analysis insights to make an A_-powered application to help ease the discussed challenge. 
