@@ -117,6 +117,8 @@ Select "SHOW INFORMATION ABOUT MUSIC NOTES" from the sidebar.
 Upload an audio file in WAV, MP3, or OGG format.
 The app will transcribe the audio to MIDI and display information about the music notes in a DataFrame.
 ![Image](https://github.com/rania-hossam/AI_Powered_APP/blob/main/videosofproject/gif2.gif)
+![Image](https://github.com/rania-hossam/AI_Powered_APP/blob/main/videosofproject/gif3.gif)
+
 
 3. Music Generation
 The Music Generation feature allows you to generate music based on a text description. It uses the Meta Audiocraft library and the Music Gen Small model.
@@ -129,6 +131,7 @@ Adjust the time duration using the slider.
 The app will generate music based on your description and play it back for you to listen to.
 4. Show Music Sheets from Your Audio
 This feature is designed to generate music sheets from your audio files. It converts MIDI files to PNG images.
+![Image](https://github.com/rania-hossam/AI_Powered_APP/blob/main/videosofproject/gif3.gif)
 
 To use this feature:
 
